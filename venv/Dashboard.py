@@ -6,7 +6,7 @@ import plotly.graph_objects as go
 
 st.set_page_config(layout='wide')
 
-# Define o título do aplicativo Streamlit
+# Define o título dos aplicativo Streamlit
 st.title('DASHBOARD DE VENDAS :shopping_trolley:')
 
 # URL da API de onde os dados serão recuperados
